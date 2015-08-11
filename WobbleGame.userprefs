@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/snowbob.cs">
+    <Files>
+      <File FileName="Assets/Scripts/snowbob.cs" Line="64" Column="5" />
+      <File FileName="Assets/Scripts/start.cs" Line="13" Column="37" />
+      <File FileName="Assets/Scripts/CameraRotate.cs" Line="71" Column="3" />
+      <File FileName="Assets/Scripts/pole.cs" Line="33" Column="112" />
+      <File FileName="Assets/ScoreHolderScript.cs" Line="29" Column="62" />
+      <File FileName="Assets/Scripts/audi.cs" Line="1" Column="1" />
+      <File FileName="Assets/Materials/ToonShader 1.shader" Line="111" Column="22" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
